@@ -1,6 +1,8 @@
 # Library Management System
 
-This is a library management system built with the MEAN (MongoDB, Express, Angular, Node.js) stack. 
+This is a library management system built with the MEAN (MongoDB, Express, Angular, Node.js) stack.
+
+> **Note**: This is a sample application for demonstration purposes.
 
 ## Running the project
 
