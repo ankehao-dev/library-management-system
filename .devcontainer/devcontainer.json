@@ -20,9 +20,9 @@
       "label": "Client",
       "onAutoForward": "openPreview"
     },
-    "5000": {
+    "5001": {
       "label": "Server"
     }
   },
-  "forwardPorts": [4200, 5000]
+  "forwardPorts": [4200, 5001]
 }
